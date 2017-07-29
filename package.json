@@ -1,0 +1,31 @@
+{
+  "name": "awcon",
+  "version": "0.0.1",
+  "description": "Awesome communication, collaboration and connectivity services",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWNICS/awcon.git"
+  },
+  "keywords": [
+    "WebRTC",
+    "NodeJS",
+    "Video",
+    "Audio",
+    "Chat",
+    "Collaboration",
+    "Communication",
+    "Call",
+    "Conversation",
+    "Realtime"
+  ],
+  "author": "Rahul Vishwakarma <rahul@awnics.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWNICS/awcon/issues"
+  },
+  "homepage": "https://github.com/AWNICS/awcon#readme"
+}
